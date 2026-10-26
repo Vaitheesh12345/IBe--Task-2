@@ -1,0 +1,9 @@
+Full name:
+Register number:
+College name and department:
+Year of study / expected graduation year:
+Mobile number:
+Email address:
+Task chosen: Task 2
+Live demo URL:
+GitHub repository URL (optional):
